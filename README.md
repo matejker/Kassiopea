@@ -84,8 +84,8 @@ https://www.usenix.org/legacy/event/leet10/tech/full_papers/Felegyhazi.pdf
 _On the Role of Zealotry in the Voter Model_, (2 Aug 2007) 
 https://arxiv.org/pdf/0706.2892.pdf  
 [14] Duen Horng Chau, Carey Nachenberg, Jeffrey Wilhelm, Adam Wright, Christos Faloutsos: 
-_Polonium: Tera-Scale Graph Mining and Inference for Malware Detection_, (2011)  
-https://www.cc.gatech.edu/ dchau/polonium/polonium_sdm2011.pdf
+_Polonium: Tera-Scale Graph Mining and Inference for Malware Detection_, (2011)
+https://www.cc.gatech.edu/ dchau/polonium/polonium_sdm2011.pdf  
 [15] Claudio Castellano, Santo Fortunato, Vittorio Loreto: 
 _Statistical physics of social dynamics_ (2009),  
 Reviews of Modern Physics 81, 591-646 https://arxiv.org/pdf/0710.3256.pdf  
