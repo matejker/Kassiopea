@@ -25,7 +25,7 @@ malware sources. Then we run the voter model of information spreading to estimat
 domains/IPs being blacklisted. Our analysis provides an intuitive, scalable way of identifying previously unknown, 
 dangerous sources online.
 
-The entire thesis can be find [thesis_matej_kerekrety.pdf](./thesis_matej_kerekrety.pdf).
+The entire thesis can be find here [thesis_matej_kerekrety.pdf](./thesis_matej_kerekrety.pdf).
 
 ## Examples
 Unfortunately, exact codes and data can't shared, while the result and sample examples can be provided. We tested and 
@@ -42,7 +42,7 @@ structure and topology as it is. Nodes and links were in the original configurat
 nodes, but we shuffled the zealot's labels at random.
 
 Finally we, test the accuracy, True Positive and False Positive Rates:  
-• [In general validation](./validation.ipynb)
+• [General validation](./validation.ipynb)
 
 ## References: 
 [1] Suman Banerjee, Mamata Jenamani, Dilip Kumar Pratihar: 
@@ -84,7 +84,7 @@ https://www.usenix.org/legacy/event/leet10/tech/full_papers/Felegyhazi.pdf
 _On the Role of Zealotry in the Voter Model_, (2 Aug 2007) 
 https://arxiv.org/pdf/0706.2892.pdf  
 [14] Duen Horng Chau, Carey Nachenberg, Jeffrey Wilhelm, Adam Wright, Christos Faloutsos: 
-_Polonium: Tera-Scale Graph Mining and Inference for Malware Detection_, (2011)
+_Polonium: Tera-Scale Graph Mining and Inference for Malware Detection_, (2011)  
 https://www.cc.gatech.edu/ dchau/polonium/polonium_sdm2011.pdf
 [15] Claudio Castellano, Santo Fortunato, Vittorio Loreto: 
 _Statistical physics of social dynamics_ (2009),  
