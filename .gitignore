@@ -1,0 +1,6 @@
+.python-version
+.ipynb_checkpoints
+.idea
+__pycache__/
+./data/
+.DS_Store
