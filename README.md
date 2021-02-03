@@ -3,7 +3,7 @@ This is my master thesis written jointly at [Department of Mathematics and Its A
 and [Department of Network and Data Science](https://networkdatascience.ceu.edu/) at Central European University in Budapest 
 over the years 2018-2019, supervised by [Gerardo Iñiguez, PhD](https://people.ceu.edu/gerardo_iniguez). The work was 
 done in close partnership with cybersecurity firm [ESET](https://eset.com/). This domain reputation model is called
-_Kassiopea_.
+_Kassiopea_.  
 <img width="300" src="./kassiopea.png">
 
 In this work, we tried to determine malicious domains with minimal ground information propagated through a large 
