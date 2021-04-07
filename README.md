@@ -7,10 +7,10 @@ _Kassiopea_.
 <img width="300" src="./kassiopea.png">
 
 In this work, we tried to determine malicious domains with minimal ground information propagated through a large 
-bipartite temporal network of domains and their hosts (often referred as _Passive Domain Name Server_ (PDNS). The 
-propagation was done by stochastic process of Voter model [2, 8, 16, 18], where nodes can be in three states `blacklisted`,
+bipartite temporal network of domains and their hosts (often referred as _Passive Domain Name Server_ (PDNS)). The 
+propagation is done by stochastic process of Voter model [2, 8, 16, 18], where nodes can be in three states `blacklisted`,
  `whitelisted` and `unknown`. Initial information of `blacklisted` and `whitelisted` nodes stay fixed over the whole process, 
-while rest of the `unknown` nodes can flip their states into those two categories. Fixed nodes we call _zealots_, while 
+while rest of the `unknown` nodes can flip their states into those two categories. Fixed nodes we called _zealots_, while 
 others are susceptible. We run the Voter model in multiple realizations, the states of nodes assigned when the process 
 ends / staturates are averaged. The averages are then labels for each domain.
 
@@ -35,7 +35,7 @@ developed a few variants of the model:
 to network of domains [1, 7]  
 
 In order to test the importance of initial conditions / ground information, we test is on two synthetics networks:  
-• [Randomly shuffled links](./domain_ip_reputation_voter_model_random_edges.ipynb)) We kept the nodes susceptibility and 
+• [Randomly shuffled links](./domain_ip_reputation_voter_model_random_edges.ipynb)) We kept the node's susceptibility and 
 labels as in the original network but we shuffled the links at random keeping the degree distribution of each node.  
 • [Randomly shuffled initial information](./domain_ip_reputation_voter_model_random_sampling.ipynb) We kept the network 
 structure and topology as it is. Nodes and links were in the original configuration. We also kept the susceptibility of 
