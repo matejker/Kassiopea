@@ -28,7 +28,7 @@ dangerous sources online.
 The entire thesis can be find here [thesis_matej_kerekrety.pdf](./thesis_matej_kerekrety.pdf).
 
 ## Examples
-Unfortunately, exact codes and data can't shared, while the result and sample examples can be provided. We tested and 
+Unfortunately, exact codes and data can't be shared, while the results and sample examples are provided. We tested and 
 developed a few variants of the model:   
 • [Bipartite version](./domain_ip_reputation_voter_model.ipynb), network of domains and hosts   
 • [Projected version](./domain_ip_reputation_voter_model_projected.ipynb), initially bipartite network was projected on 
